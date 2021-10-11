@@ -1,1 +1,5 @@
-console.log('hello design patterns world');
+import { runFactory } from './creational-patterns/Factory';
+/**
+ * Factory
+ */
+runFactory();
