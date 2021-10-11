@@ -1,5 +1,1 @@
-import App from './server/App';
-
-const app = new App();
-
-app.listen();
+console.log('hello design patterns world');
